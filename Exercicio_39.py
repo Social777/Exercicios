@@ -14,6 +14,6 @@ Primeiro = 780000 * 0.46
 Segundo = 780000 * 0.32
 Terceiro = 780000 * 0.22
 
-print(f'\nO Primeiro ganhador receberá: {Primeiro}')
-print(f'O Segundo ganhador receberá: {Segundo}')
-print(f'O Terceiro ganhador receberá: {Terceiro}')
+print(f'\nO Primeiro ganhador receberá: {Primeiro:.2f}')
+print(f'O Segundo ganhador receberá: {Segundo:.2f}')
+print(f'O Terceiro ganhador receberá: {Terceiro:.2f}')
