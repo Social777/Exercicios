@@ -8,4 +8,4 @@ dia_trabalhado = int(input('\nDigite a quantidade de dia Trabalhados: '))
 o código de cálculo iria ser diferente desse"""
 salario_liquido = (dia_trabalhado * 30) - ((dia_trabalhado * 30) * 0.08)
 
-print(f'\nO Salário liquido a ser pago é de: R$ {salario_liquido}')
+print(f'\nO Salário liquido a ser pago é de: R$ {salario_liquido:.2f}')
