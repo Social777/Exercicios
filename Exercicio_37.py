@@ -5,4 +5,4 @@ prod = float(input('\nDigite o valor do produto: '))
 
 desc = prod * 0.88
 
-print(f'\nO valor do produto com desconto é de: {desc}')
+print(f'\nO valor do produto com desconto é de: {desc:.2f}')
