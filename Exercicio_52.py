@@ -22,4 +22,4 @@ print(f'\nO valor da contribuição do Primeiro apostador foi de: {porcentagem1:
 print(f'O valor da contribuição do Primeiro apostador foi de: {porcentagem2:.2f}% e recebera: {premio2:.2f}')
 print(f'O valor da contribuição do Primeiro apostador foi de: {porcentagem3:.2f}% e recebera: {premio3:.2f}')
 
-print(f'\n*** O valores acima são aproximados ***')int()
+print(f'\n*** O valores acima são aproximados ***')
